@@ -9,7 +9,7 @@ from datetime import datetime
 #----- PARAMETERS -----#
 # フォルダのパスとファイル名のパターン指定
 folder_path = os.getcwd()
-file_pattern = "*.*"
+file_pattern = "DSC*.*"
 
 # 画像ファイルと動画ファイルの拡張子リスト
 image_extensions = [".jpg", ".jpeg", ".png", ".gif"]
