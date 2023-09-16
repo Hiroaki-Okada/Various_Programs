@@ -12,7 +12,7 @@ folder_path = os.getcwd()
 file_pattern = "DSC*.*"
 
 # 画像ファイルと動画ファイルの拡張子リスト
-image_extensions = [".jpg", ".jpeg", ".png", ".gif"]
+image_extensions = [".jpg", ".jpeg", ".png", ".gif", '.JPG']
 video_extensions = [".mp4", ".wmv", ".3gp"]
 #----------------------#
 
