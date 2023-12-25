@@ -9,7 +9,7 @@ folder_path = os.getcwd()
 album_name = 'xxx'
 artist_name = 'yyy'
 year = 2023
-order = 'update_time'
+order = 'update_time' # 連番を与える基準を更新日時順(update_time)または名前順(name)で指定
 #----------------------#
 
 
